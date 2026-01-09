@@ -1,0 +1,8 @@
+{
+  "name": "智投 A股 Pro",
+  "description": "融合 Gemini 3 Pro 深度推理与实时搜索增强的 A 股超级投研平台。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
